@@ -14,20 +14,21 @@ Currently, I am **completely rethinking my main project architecture** to move f
 - **Automation** – Streamlining data pipelines to ensure data quality and reliability.
 
 ### 🛠 Tools & Technologies
-- **Languages:** Python, SQL (PostgreSQL, BigQuery), JavaScript
-- **Data Stack:** **dbt**, Power BI, Google BigQuery / Snowflake
-- **Core Dev:** Git, Docker, React, Django
+- **Languages:** Python, SQL, C, C++, Shell
+- **Data Analyst:** Pandas, NumPy, Matplotlib
+- **Data Engineer:** PySpark, PostgreSQL
+- **Core Dev:** Git, Docker, Google-Sheet, Excel
+- **Outil BI:** Power BI, Metabase
 - **Concepts:** ETL/ELT, Data Warehousing, Data Visualization
 
 ### 🤝 Let's Work Together!
-I am currently looking for a **1-year Apprenticeship (Alternance)** as a **Data Engineer** or **Data Analyst** starting in [Mois de début, ex: September 2026].
+I am currently looking for a **1-year Apprenticeship (Alternance)** as a **Data Engineer** or **Data Analyst** starting in Febuary 2026.
 
-If you have a project, an idea, or a job opportunity, I'd love to hear from you!
+If you have a project or a job opportunity, I'd love to hear from you!
 
 📫 **How to reach me:**
-- **LinkedIn:** [[Your LinkedIn Link]](https://linkedin.com/in/yourprofile)
-- **Email:** [your.email@example.com]
-- **Location:** [Your City, France]
+- **LinkedIn:** [[www.linkedin.com/in/tristan-chantroux-4b6bb31b2]]
+- **Location:** Paris, France
 
 ---
 <p align="center">
