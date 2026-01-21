@@ -1,35 +1,39 @@
 ## Hi there 👋
 
-# Salut, moi c'est [Ton Prénom/Pseudo] ! 👋
+# 👋 Welcome to my Profile!
 
-### 🚀 Passionné par le développement [Ton domaine, ex: Web / Mobile / Data]
+### 🚀 About Me
+I am a passionate developer who loves building projects that combine **technology and real-world impact**. 
+
+Currently, I am **completely rethinking my main project architecture** to move from a standard development approach to a more robust **Modern Data Stack**. I'm focusing on how to transform raw data into high-value business assets using better modeling practices.
+
+### 📊 What I Love in Data
+- **Analytics Engineering** – Bridging the gap between Data Engineering and Business Analysis.
+- **Data Modeling** – Designing clean, scalable Star Schemas and working with tools like **dbt**.
+- **Insights & Impact** – Building dashboards that don't just look good, but actually drive decisions.
+- **Automation** – Streamlining data pipelines to ensure data quality and reliability.
+
+### 🛠 Tools & Technologies
+- **Languages:** Python, SQL (PostgreSQL, BigQuery), JavaScript
+- **Data Stack:** **dbt**, Power BI, Google BigQuery / Snowflake
+- **Core Dev:** Git, Docker, React, Django
+- **Concepts:** ETL/ELT, Data Warehousing, Data Visualization
+
+### 🤝 Let's Work Together!
+I am currently looking for a **1-year Apprenticeship (Alternance)** as a **Data Engineer** or **Data Analyst** starting in [Mois de début, ex: September 2026].
+
+If you have a project, an idea, or a job opportunity, I'd love to hear from you!
+
+📫 **How to reach me:**
+- **LinkedIn:** [[Your LinkedIn Link]](https://linkedin.com/in/yourprofile)
+- **Email:** [your.email@example.com]
+- **Location:** [Your City, France]
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-### 👨‍💻 À propos de moi
-- 🔭 Je travaille actuellement sur **[Nom du projet]**
-- 🌱 J'apprends en ce moment **[Techno, ex: TypeScript ou Docker]**
-- 💬 Interrogez-moi sur **[Tes compétences, ex: React, Python, SQL]**
-- 📫 Comment me joindre : **[Ton email ou lien LinkedIn]**
-
----
-
-### 🛠 Mes outils et technologies
-| Catégorie | Outils |
-| :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **Frameworks** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-
----
-
-### 📊 Statistiques GitHub
-![Stats de mon GitHub](https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO_ICI]&show_icons=true&theme=radical)
-
----
-
-### 🤝 Travaillons ensemble !
-[Lien vers ton portfolio] / [Lien vers ton profil LinkedIn]
 <!--
 **Silveratis0922/Silveratis0922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
