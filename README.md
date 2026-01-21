@@ -26,10 +26,6 @@ I am currently looking for a **1-year Apprenticeship (Alternance)** as a **Data 
 
 If you have a project or a job opportunity, I'd love to hear from you!
 
-📫 **How to reach me:**
-- **LinkedIn:** [[www.linkedin.com/in/tristan-chantroux-4b6bb31b2]]
-- **Location:** Paris, France
-
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Silveratis0922&show_icons=true&theme=radical" alt="GitHub Stats" />
