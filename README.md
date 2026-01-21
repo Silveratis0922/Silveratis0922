@@ -31,7 +31,7 @@ If you have a project, an idea, or a job opportunity, I'd love to hear from you!
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Silveratis0922&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <!--
