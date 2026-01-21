@@ -20,7 +20,7 @@ Currently, I am **completely rethinking my main project architecture** to move f
 - **Concepts:** ETL/ELT, Data Warehousing, Data Visualization
 
 ### 🤝 Let's Work Together!
-I am currently looking for a **1-year Apprenticeship (Alternance)** as a **Data Engineer** or **Data Analyst** starting in Febuary 2026.
+I am currently looking for a **1-year Apprenticeship (Alternance)** as a **Data Engineer** or **Data Analyst** starting in February 2026.
 
 If you have a project or a job opportunity, I'd love to hear from you!
 
