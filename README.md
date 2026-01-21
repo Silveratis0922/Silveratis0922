@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Welcome to my Profile!
 
 ### 🚀 About Me
