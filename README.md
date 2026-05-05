@@ -16,11 +16,11 @@ Currently, I am **completely rethinking my main project architecture** to move f
 - **Data Analyst:** Pandas, NumPy, Matplotlib
 - **Data Engineer:** PySpark, PostgreSQL
 - **Core Dev:** Git, Docker, Google-Sheet, Excel
-- **Outil BI:** Power BI, Metabase
+- **Outil BI:** Metabase
 - **Concepts:** ETL/ELT, Data Warehousing, Data Visualization
 
 ### 🤝 Let's Work Together!
-I am currently looking for a **1-year Apprenticeship (Alternance)** as a **Data Engineer** or **Data Analyst** starting in February 2026.
+I am currently looking for a **1-year Apprenticeship (Alternance)** as a **Data Engineer** or **Data Analyst**.
 
 If you have a project or a job opportunity, I'd love to hear from you!
 
